@@ -1,4 +1,4 @@
-# P4D3
+# Description & Instructions
 
 This package implements the box pushing scenario for the triton robot. This was written from scratch (no starter code). The demo video can be viewed at: https://youtu.be/qCwxBEC8WS4
 
